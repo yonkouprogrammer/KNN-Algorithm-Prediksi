@@ -1,3 +1,3 @@
 # KNN-Algorithm-Prediksi
 
-Prediksi Kelulusan menggunakan Algoritma KNN
+Prediksi Kelulusan Mahasiswa menggunakan Algoritma KNN
